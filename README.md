@@ -1,11 +1,11 @@
-🛒 Retail Transaction Dataset Analysis
+# 🛒 Retail Transaction Dataset Analysis
 This repository contains analysis and insights derived from a retail transaction dataset downloaded from Kaggle and analyzed using Python. The project aims to explore customer purchasing behavior, identify sales trends, and provide actionable business intelligence using data analysis and visualization techniques.
 
-📁 Dataset Overview
+# 📁 Dataset Overview
 
 Source: Kaggle
 
-Dataset Name: Retail Transactions Datset
+Dataset Name: Retail Transactions Dataset
 
 Records: 100,000+ transactions
 
@@ -32,7 +32,7 @@ Discount Applied: Given as a percentage
 Total Amount: Total bill of the sold items
 
 
-📊 Analysis Performed
+# 📊 Analysis Performed
 
 Data Cleaning & Preprocessing
 
@@ -52,7 +52,7 @@ Transactions before particular date
 
 Median and highest price
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python 3
 
@@ -64,7 +64,7 @@ Scikit-learn – Clustering algorithms
 
 Google Colab – Interactive analysis
 
-📈 Key Findings
+# 📈 Key Findings
 
 All payment methods are equally popular.
 
@@ -72,6 +72,6 @@ All products equally traded.
 
 Various transaction take place before the given date and listed in the form of a table.
 
-📝 License
+# 📝 License
 
 This project is open-source and available under CC0: Public Domain.
